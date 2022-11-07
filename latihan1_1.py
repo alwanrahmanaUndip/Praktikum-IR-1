@@ -20,4 +20,7 @@ for file in os.listdir(path):
   
   #call read text function
   read_text_file(file_path)
+  
+def printHello(x):
+ print("Hello world",x)
  
